@@ -34,9 +34,9 @@ Lastly the basic functionality to redirect an api call to the right microservice
 
 - **Cost**: Using a cloud provider's fully-featured API Gateway can be expensive, especially if you have a high volume of API traffic. By building your own API Gateway, you can save on costs and optimize your infrastructure for your specific needs.
 
-- **Learning**: Building your own API Gateway is a great way to learn how API Gateway technology works and gain a deeper understanding of microservices architecture. By building it yourself, you can gain hands-on experience and a deeper appreciation for the complexity of building a scalable, secure, and reliable API Gateway.
+- **Learning**: Building my own API Gateway is a great way to learn how API Gateway technology works and gain a deeper understanding of microservices architecture. By building it myself, I can gain hands-on experience and a deeper appreciation for the complexity of building a scalable, secure, and reliable API Gateway.
 
-- **Customization**: Building your own API Gateway allows you to customize the functionality and features to meet the specific needs of your application or organization.
+- **Customization**: Building my own API Gateway allows me to customize the functionality and features to meet the specific needs of my application.
 
 #### References
 

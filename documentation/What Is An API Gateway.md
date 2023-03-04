@@ -24,7 +24,7 @@ Envoy might be an intersting one to look at as it is open-source and written in 
 
 As building a fully featured API Gateway such as Kong or Envoy is too big for a little project like this I will be focussing on small but essential parts of an API Gateway.
 
-Authentication will be very import to enable rate limiting also, this helps me prevent cyber attacks which would also prevent the single point of failure that comes with an API Gateway.
+Authentication will be very important to enable rate limiting also, this helps me prevent cyber attacks which would also prevent the single point of failure that comes with an API Gateway.
 
 Service discovery also seems like an essential feature for an API Gateway to work really nice.
 

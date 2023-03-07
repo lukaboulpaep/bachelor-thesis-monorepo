@@ -8,3 +8,4 @@ All documents listed below are about my research phase before I knew anything ab
 
 - [What is an API Gateway?](https://github.com/lukaboulpaep/bachelor-thesis-monorepo/blob/master/documentation/What%20Is%20An%20API%20Gateway.md)
 - [Authentication](https://github.com/lukaboulpaep/bachelor-thesis-monorepo/blob/master/documentation/Authorization.md)
+- [How to implement Authentication with JWT?](https://github.com/lukaboulpaep/bachelor-thesis-monorepo/blob/master/documentation/How%20to%20implement%20Authentication%20with%20JWT.md)
